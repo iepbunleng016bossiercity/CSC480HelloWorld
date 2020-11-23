@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{A44DF6B9-1427-4512-9191-FAC3EA822F2F}|Default">
+  <MonoDevelop.Ide.ItemProperties.HelloWorld1.iOS TriggeredFromHotReload="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.238E3BC1-34E7-4170-AD57-A9711D5BEC84" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HelloWorld1/App.xaml.cs">
+    <Files>
+      <File FileName="HelloWorld1/GreetPage.xaml" Line="5" Column="23" />
+      <File FileName="HelloWorld1/GreetPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="HelloWorld1/App.xaml" Line="1" Column="1" />
+      <File FileName="HelloWorld1/App.xaml.cs" Line="13" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HelloWorld1" expanded="True">
+            <Node name="HelloWorld1" expanded="True">
+              <Node name="App.xaml" expanded="True">
+                <Node name="App.xaml.cs" selected="True" />
+              </Node>
+              <Node name="GreetPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.HelloWorld1.Android TriggeredFromHotReload="False" PreferredExecutionTarget="Android.nexus_4_oreo_8_1_-_api_27" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

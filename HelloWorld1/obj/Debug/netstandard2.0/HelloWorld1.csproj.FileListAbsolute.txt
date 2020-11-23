@@ -1,0 +1,15 @@
+/Users/iepbunleng016/Projects/HelloWorld1/HelloWorld1/bin/Debug/netstandard2.0/HelloWorld1.deps.json
+/Users/iepbunleng016/Projects/HelloWorld1/HelloWorld1/bin/Debug/netstandard2.0/HelloWorld1.dll
+/Users/iepbunleng016/Projects/HelloWorld1/HelloWorld1/bin/Debug/netstandard2.0/ref/HelloWorld1.dll
+/Users/iepbunleng016/Projects/HelloWorld1/HelloWorld1/bin/Debug/netstandard2.0/HelloWorld1.pdb
+/Users/iepbunleng016/Projects/HelloWorld1/HelloWorld1/obj/Debug/netstandard2.0/HelloWorld1.csprojAssemblyReference.cache
+/Users/iepbunleng016/Projects/HelloWorld1/HelloWorld1/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/iepbunleng016/Projects/HelloWorld1/HelloWorld1/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/iepbunleng016/Projects/HelloWorld1/HelloWorld1/obj/Debug/netstandard2.0/HelloWorld1.AssemblyInfoInputs.cache
+/Users/iepbunleng016/Projects/HelloWorld1/HelloWorld1/obj/Debug/netstandard2.0/HelloWorld1.AssemblyInfo.cs
+/Users/iepbunleng016/Projects/HelloWorld1/HelloWorld1/obj/Debug/netstandard2.0/HelloWorld1.csproj.CoreCompileInputs.cache
+/Users/iepbunleng016/Projects/HelloWorld1/HelloWorld1/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/iepbunleng016/Projects/HelloWorld1/HelloWorld1/obj/Debug/netstandard2.0/HelloWorld1.dll
+/Users/iepbunleng016/Projects/HelloWorld1/HelloWorld1/obj/Debug/netstandard2.0/ref/HelloWorld1.dll
+/Users/iepbunleng016/Projects/HelloWorld1/HelloWorld1/obj/Debug/netstandard2.0/HelloWorld1.pdb
+/Users/iepbunleng016/Projects/HelloWorld1/HelloWorld1/obj/Debug/netstandard2.0/GreetPage.xaml.g.cs
