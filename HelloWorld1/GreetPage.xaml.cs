@@ -10,6 +10,7 @@ namespace HelloWorld1
         public GreetPage()
         {
             InitializeComponent();
+
         }
 
         void Button_Clicked(System.Object sender, System.EventArgs e)
