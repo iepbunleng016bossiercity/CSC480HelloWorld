@@ -1,21 +1,26 @@
-﻿<Properties StartupConfiguration="{A44DF6B9-1427-4512-9191-FAC3EA822F2F}|Default">
+﻿<Properties StartupConfiguration="{F939300B-13A0-435D-9636-109872A136B8}|Default">
   <MonoDevelop.Ide.ItemProperties.HelloWorld1.iOS TriggeredFromHotReload="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.238E3BC1-34E7-4170-AD57-A9711D5BEC84" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="HelloWorld1/App.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HelloWorld1.Android/MainActivity.cs">
     <Files>
-      <File FileName="HelloWorld1/GreetPage.xaml" Line="5" Column="23" />
-      <File FileName="HelloWorld1/GreetPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="HelloWorld1/GreetPage.xaml" Line="5" Column="21" />
+      <File FileName="HelloWorld1/GreetPage.xaml.cs" Line="17" Column="33" />
       <File FileName="HelloWorld1/App.xaml" Line="1" Column="1" />
-      <File FileName="HelloWorld1/App.xaml.cs" Line="13" Column="25" />
+      <File FileName="HelloWorld1/App.xaml.cs" Line="13" Column="38" />
+      <File FileName="HelloWorld1/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="HelloWorld1/MainPage.xaml" Line="1" Column="1" />
+      <File FileName="HelloWorld1.Android/MainActivity.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="HelloWorld1" expanded="True">
             <Node name="HelloWorld1" expanded="True">
-              <Node name="App.xaml" expanded="True">
-                <Node name="App.xaml.cs" selected="True" />
-              </Node>
+              <Node name="App.xaml" expanded="True" />
               <Node name="GreetPage.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+            <Node name="HelloWorld1.Android" expanded="True">
+              <Node name="MainActivity.cs" selected="True" />
             </Node>
           </Node>
         </State>
