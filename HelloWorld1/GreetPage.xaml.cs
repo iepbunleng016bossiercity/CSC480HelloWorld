@@ -14,7 +14,11 @@ namespace HelloWorld1
 
         void Button_Clicked(System.Object sender, System.EventArgs e)
         {
-            DisplayAlert("Title","Alert me","OK");
+            DisplayAlert("Edited","Alert me","OK");
+        }
+
+        void Button_Clicked_1(System.Object sender, System.EventArgs e)
+        {
         }
     }
 }
