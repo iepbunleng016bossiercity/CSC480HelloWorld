@@ -2,5 +2,9 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="HelloWorld1.GreetPage">
-<Button Text="Click On Me" Clicked="Button_Clicked"></Button>
+<StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+    <Label Text="Use travis CI to do CI" x:Name="label1"></Label>
+    <Slider ValueChanged="Slider_ValueChanged" x:Name="slider1"/>
+</StackLayout>
+
 </ContentPage>

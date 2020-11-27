@@ -11,15 +11,13 @@ namespace HelloWorld1
         {
             InitializeComponent();
 
+            slider1.Value = 0.5;
         }
 
-        void Button_Clicked(System.Object sender, System.EventArgs e)
+        void Slider_ValueChanged(System.Object sender, Xamarin.Forms.ValueChangedEventArgs e)
         {
-            DisplayAlert("Edited","Alert me","OK");
+            label1.Text = String.Format("Value is {0:F2}",e.NewValue);
         }
 
-        void Button_Clicked_1(System.Object sender, System.EventArgs e)
-        {
-        }
     }
 }
